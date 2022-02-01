@@ -1,0 +1,18 @@
+{
+  "name": "leggo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "start.js",
+  "dependencies": {
+    "node-poweredup": "^8.0.5",
+    "pngjs": "^5.0.0"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "LEGO",
+    "Fun",
+    "Plotter"
+  ],
+  "author": "Samson",
+  "license": "MIT"
+}
